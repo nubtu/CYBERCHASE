@@ -1,5 +1,6 @@
 # CYBERCHASE
 Text based adventure game
+-----------------------------------------------------------------------------
 welcome to CYBERCHASE!
 in a few moments you will partake in a race across the galaxy aimed at stopping an evil organisation intent on destroying the universe!
 but first, the boring bit. 
